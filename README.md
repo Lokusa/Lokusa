@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokusa
-- 👀 I’m interested in Software Testing and Software Developement
+- 👀 I’m interested in Software Developement and System Analysis
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me Email:thwalambali.08@gmail.com
 
